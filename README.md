@@ -1,6 +1,7 @@
 # MakeHTML
 
-Sometime a just don't want do put html into a string just because it will be a pain to read in the future
+Sometimes I just don't want mix html with Javascript putting html into a string just because it will be a pain to read in the future.
+
 ```html
 <!DOCTYPE html>
 <html>
